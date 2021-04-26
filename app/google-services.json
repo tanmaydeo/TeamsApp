@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929695723193",
+    "project_id": "teams-bc14c",
+    "storage_bucket": "teams-bc14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929695723193:android:1b0a3ac2d3d5c83ecd3568",
+        "android_client_info": {
+          "package_name": "com.tanmayandev.teamsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929695723193-um24bqm315ajbhu2hn18l49bmd6d4c01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg52IjiIVHxwvE8n_6M8LM1TAnoV9_mW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929695723193-um24bqm315ajbhu2hn18l49bmd6d4c01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
